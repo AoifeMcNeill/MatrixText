@@ -1,0 +1,44 @@
+body{
+    background-color: #000;
+  }
+  
+  .txtRain{
+    float: left;
+    padding: 5px;
+    font-size: 12px;
+    font-family: consolas, monospace;
+    color: #20C20E;
+  }
+  
+  #name1{
+    font-size: 28px;
+    font-family: consolas, monospace;
+    color: #3CF028;
+    position: absolute;
+    z-index: 2;
+    text-shadow: 1px 1px #fff;
+    top: 100px;
+    left: 80px;
+  }
+  
+  #name2{
+    font-size: 28px;
+    font-family: consolas, monospace;
+    color: #3CF028;
+    position: absolute;
+    z-index: 2;
+    text-shadow: 1px 1px #fff;
+    top: 170px;
+    left: 140px;
+  }
+  
+  #name3{
+    font-size: 28px;
+    font-family: consolas, monospace;
+    color: #3CF028;
+    position: absolute;
+    z-index: 2;
+    text-shadow: 1px 1px #fff;
+    top: 240px;
+    left: 120px;
+  }
